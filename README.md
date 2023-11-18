@@ -13,6 +13,6 @@ Installation and usage is almost exactly the same as <a href="https://github.com
     ```bundle install```
     To run this on your machine do:
     ```bundle exec jekyll serve --trace```
-# If you wanted to use this for your own domain;
+## If you wanted to use this for your own domain;
     Change the `url` attribute to your domain (including `http://`)
     Add the JEKYLL_ENV=production flag before the exec command.
