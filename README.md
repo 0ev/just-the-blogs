@@ -7,6 +7,12 @@
 
 Installation and usage is almost exactly the same as <a href="https://github.com/just-the-docs/just-the-docs">just-the-docs. Your mileage may vary with github pages as this repo was designed for localhosting with jekyll.
 
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
+## Basic installation
+    Clone this repo into your machine.
+    Inside the repo do:
+    ```bundle install```
+    To run this on your machine do:
+    ```bundle exec jekyll serve --trace```
+# If you wanted to use this for your own domain;
+    Change the `url` attribute to your domain (including `http://`)
+    Add the JEKYLL_ENV=production flag before the exec command.
