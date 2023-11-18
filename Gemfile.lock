@@ -71,6 +71,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-include-cache
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.4.13
