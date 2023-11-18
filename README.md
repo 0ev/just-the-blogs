@@ -5,7 +5,7 @@
     <br><br><br>
 </p>
 
-Installation and usage is almost exactly the same as <a href="https://github.com/just-the-docs/just-the-docs">just-the-docs. Your mileage may vary with github pages as this repo was designed for localhosting with jekyll.
+This repo was designed for self hosting with jekyll. Github pages may require finicking.
 
 ## Basic installation
     Clone this repo into your machine.
