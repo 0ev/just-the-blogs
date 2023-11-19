@@ -8,11 +8,17 @@
 This repo was designed for self hosting with jekyll. Github pages may require finicking.
 
 ## Basic installation
-    Clone this repo into your machine.
-    Inside the repo do:
-    ```bundle install```
-    To run this on your machine do:
-    ```bundle exec jekyll serve --trace```
+
+Clone this repo into your machine.
+Inside the repo do:
+
+    $ bundle install
+
+To run this on your machine do:
+
+    $ bundle exec jekyll serve --trace
+
 ## If you wanted to use this for your own domain;
-    Change the `url` attribute to your domain (including `http://`)
-    Add the JEKYLL_ENV=production flag before the exec command.
+
+Change the `url` attribute to your domain (including `http://`)
+Add the JEKYLL_ENV=production flag before the exec command.
